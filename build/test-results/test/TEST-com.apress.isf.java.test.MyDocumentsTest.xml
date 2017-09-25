@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.apress.isf.java.test.MyDocumentsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-09-21T08:59:37" hostname="tw-ultra9382" time="0.008">
+  <properties/>
+  <testcase name="testFindByType" classname="com.apress.isf.java.test.MyDocumentsTest" time="0.007"/>
+  <testcase name="findByType" classname="com.apress.isf.java.test.MyDocumentsTest" time="0.0"/>
+  <testcase name="testListAll" classname="com.apress.isf.java.test.MyDocumentsTest" time="0.0"/>
+  <testcase name="listAll" classname="com.apress.isf.java.test.MyDocumentsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
