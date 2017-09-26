@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="731dfb6d-b214-49c4-912e-519ef7fb1260" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/apress/isf/spring/service/FileSearchEngineService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/apress/isf/spring/test/profile/CustomProfile.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -79,14 +79,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileSearchEngineService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileSearchEngineService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/apress/isf/spring/service/FileSearchEngineService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="475">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomProfile.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/apress/isf/spring/test/profile/CustomProfile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -485,8 +495,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/apress/isf/java/service/SearchEngine.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/apress/isf/java/test/MyDocumentsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/apress/isf/java/test/MyDocumentsTestTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/apress/isf/java/test/MyDocumentTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/apress/isf/java/test/MyDocumentstest.java" />
@@ -536,6 +544,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/apress/isf/spring/service/LoginService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/apress/isf/spring/test/MyDocumentsWithProfilesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/apress/isf/spring/service/FileSearchEngingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/apress/isf/spring/service/FileSearchEngineService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/apress/isf/spring/test/profile/CustomProfile.java" />
       </list>
     </option>
   </component>
@@ -836,12 +846,12 @@
       <workItem from="1506039629723" duration="594000" />
       <workItem from="1506045316453" duration="1206000" />
       <workItem from="1506299859791" duration="599000" />
-      <workItem from="1506386088758" duration="1250000" />
+      <workItem from="1506386088758" duration="1544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78662000" />
+    <option name="totallyTimeSpent" value="78956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -932,13 +942,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/apress/isf/spring/service/SearchEngineService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules/META-INF/spring/context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
@@ -1215,11 +1218,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/apress/isf/spring/service/FileSearchEngineService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="475">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/apress/isf/spring/test/profile/CustomProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
