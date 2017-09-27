@@ -1,8 +1,6 @@
 
 package com.apress.isf.spring.test.profile;
 
-import org.springframework.test.annotation.ProfileValueSource;
-
 public class CustomProfile implements ProfileValueSource {
 
     public String get(String key) {
